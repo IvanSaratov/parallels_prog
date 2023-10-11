@@ -6,6 +6,13 @@
 
 **Ячейки**
 
+За основу взяты материаллы от [сюда](https://www.cyberforum.ru/cpp-beginners/thread276410.html)
+
+Интеграл для основания:
+$$
+\int_{0}^{16} \int_{0}^{16}{ \frac{e^{sin\pi x cos\pi y} +1}{(b_1-a_1)(b_2-a_2)} }dxdy \approx 2.130997
+$$
+
 [Код приложения](main.cpp)
 
 ### Результат работы:

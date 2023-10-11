@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "limits": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "cmath": "cpp",
+        "string": "cpp",
+        "xlocnum": "cpp",
+        "complex": "cpp"
+    }
+}
